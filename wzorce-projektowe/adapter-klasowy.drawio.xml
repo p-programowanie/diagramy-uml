@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mxfile host="app.diagrams.net" modified="2022-09-23T21:03:43.147Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="bq6bS2fCl1JfeCwdw-FI" compressed="false" version="20.3.6" type="device">
+<mxfile host="app.diagrams.net" modified="2022-09-23T22:27:24.934Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="eK8eg1XxOkr9irOYZqph" compressed="false" version="20.3.6" type="github">
   <diagram id="VgxcMIDWhorBvUK0fKOt" name="Strona-1">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="865" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,7 +21,7 @@
         <mxCell id="PfvhpptFXEg98BW-I_nM-4" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;«Interfejs»&lt;br&gt;&lt;b&gt;InterfejsDocelowy&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ operacja()&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="230" y="180" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="PfvhpptFXEg98BW-I_nM-6" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;ObiektAdaptowany&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ innaOperacja()&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="PfvhpptFXEg98BW-I_nM-6" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;KlasaAdaptowana&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ innaOperacja()&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="420" y="180" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PfvhpptFXEg98BW-I_nM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;endArrow=block;endFill=0;endSize=15;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="PfvhpptFXEg98BW-I_nM-12" target="PfvhpptFXEg98BW-I_nM-4" edge="1">
